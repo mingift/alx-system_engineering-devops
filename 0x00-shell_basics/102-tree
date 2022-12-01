@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mpa
+mkdir -p welcome/welcome/to/welcome/to/school
