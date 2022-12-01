@@ -1,2 +1,2 @@
 #!/bin/bash
-find /my_dir1/my_dir2/hello -type d -exec chmod 755 {} \;
+chmod a=x *
