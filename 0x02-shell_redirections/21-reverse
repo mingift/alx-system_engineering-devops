@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "food" | rev
+echo "Reverse" | rev
